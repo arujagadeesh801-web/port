@@ -4,7 +4,7 @@
 
 :root {
 
-    --bg: #f7f8fa;
+    --bg: #e7eef7;
 
     --bg-soft: #eef2f6;
 
@@ -110,7 +110,7 @@ button {
     z-index: 1000;
 
     background:
-        rgba(247, 248, 250, 0.88);
+        rgba(231, 238, 247, 0.9);
 
     backdrop-filter: blur(18px);
 
@@ -242,7 +242,12 @@ button {
     overflow: hidden;
 
     background:
-        #f7f8fa;
+        linear-gradient(
+            120deg,
+            #dce8f5 0%,
+            #e9f0f8 52%,
+            #dfe8f3 100%
+        );
 }
 
 
@@ -1748,7 +1753,7 @@ footer {
         width: 100%;
 
         background:
-            rgba(247, 248, 250, 0.98);
+            rgba(231, 238, 247, 0.98);
 
         border-bottom:
             1px solid var(--border);
