@@ -6,7 +6,7 @@ This portfolio showcases my skills, projects, education, internship experience, 
 
 ## 🚀 Live Portfolio
 
-🔗 [View My Portfolio]👉🏻((https://jagadeesh-portfolio-git-main-arujagadeesh801-4298s-projects.vercel.app/))
+🔗 [View My Portfolio]👉🏻((https://jagadeesh-portfolio-gilt.vercel.app/))
 
 ## 👨‍💻 About Me
 
